@@ -18,8 +18,8 @@ public class Book extends Paper {
 		Book b=(Book)p;
 		b.blueBook();
 		b.redBook();
-		b.redBook();
-		b.blueBook();
+		b.redPaper();
+		b.bluePaper();
 		
 		
 	}
