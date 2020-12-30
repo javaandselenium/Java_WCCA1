@@ -8,10 +8,14 @@ public class Test2 {
 		s[3]="Mahesh";
 		s[0]="Suresh";
 		
-		for(int i=0;i<4;i++)
-		{
-			System.out.println(s[i]);
+		for(String a:s) {
+			System.out.println(a);
 		}
+		
+//		for(int i=0;i<4;i++)
+//		{
+//			System.out.println(s[i]);
+//		}
 
 	}
 
